@@ -1,2 +1,8 @@
-# threat-alert-api-docker
-REST API for cybersecurity threat alerts with JWT authentication, SQLite database, and Docker support. FastAPI + Swagger UI.
+# Threat Alert API - Dockerized
+
+A REST API for cybersecurity threat alerts with JWT authentication, running in Docker.
+
+## Quick Start
+
+```bash
+docker run -p 8000:8000 aikaksh/threat-alert-api
