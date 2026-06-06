@@ -136,10 +136,6 @@ Swagger UI: http://localhost:8000/docs
 
 ReDoc: http://localhost:8000/redoc
 
-## 🔗 Links
-
-- **GitHub**: [threat-alert-api-docker](https://github.com/Aikaksh-Singh-Routela/threat-alert-api-docker)
-
 📄 License
 MIT License
 
